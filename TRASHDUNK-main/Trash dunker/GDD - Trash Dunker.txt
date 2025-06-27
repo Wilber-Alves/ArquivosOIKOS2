@@ -1,0 +1,25 @@
+1 - projeto e visão geral
+
+
+1.1 - conceito geral
+O objetivo do jogo é guiar os lixos para suas respectivas lixeiras de reciclagem. Os resíduos ficam caindo do céu, como blocos de tetris, e o jogador deve guiar o lixo para o descarte certo.
+Ao longo dos níveis, novos tipo de lixo são introduzidos, e o jogador deve lidar com quantidades cada vez maiores de resíduos que caem cada vez mais rápido.
+
+1.2 Visão Geral
+Na cidade, as pessoas ficam jogando o lixo de qualquer jeito nas ruas, sem nem olhar se ele vai cair no local de descarte certo. Você, cidadão consciente, decidiu que seria sua missão de vida impedir que esse lixo continuasse caindo em qualquer lugar. Portanto, você fica na espreita nas ruas, vendo os lixos voarem pelo céu, para então logo pegá-los e colocá-los na sua lixeira correta antes que caiam no chão. O jogo irá se passar em diferentes pontos da cidade (rua, escola, parque, hospital, campo de obra, usina nuclear, laboratório, ), que vão estar relacionados com o tipo de lixo que será descartado corretamente. 
+Nos primeiros níveis, o jogador precisará correlacionar apenas 4 tipos diferentes de resíduos (papel, plástico, metal e vidro). Nas fases intermediárias, serão adicionados mais duas lixeiras para descarte (orgânicos e madeira). Nas fases avançadas, serão adicionados por final mais 3 lixeiras (resíduos perigosos, infectantes e radioativos).
+
+1.3 Título do jogo
+O título do jogo seria "Trash Dunker". Trash Dunker seria uma  referência ao dunk do basquete (quando o jogador pula com a bola na mão e a coloca diretamente na cesta), devido à semelhança de quando você coloca o lixo na lixeira.
+
+1.4 O que faz dele único?
+Mostra diferentes tipos de resíduos que vão além do que vemos no nosso dia-a-dia e seu descarte de forma prática e divertida. Adiciona mecânicas semelhantes a jogos como Tetris, que não
+costumam aparecer em outros jogos educativos.
+
+1.5 Gameplay Features
+
+
+2 - 
+
+2.1 Público-Alvo
+O público alvo de "Trash Dunker" seria alunos do ensino fundamental 2 e médio
